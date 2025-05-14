@@ -1,3 +1,4 @@
+This is my first local change using GitHub Desktop!
 # Introduction to GitHub
 
 _Get started using GitHub in less than an hour._
